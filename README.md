@@ -7,3 +7,7 @@ https://www.freelancer.com/u/risky00/portfolio/web-development-and-uiux-jungle-8
 
 Web Sites<br>
 https://000sushant.github.io/WorldOfMovies/
+
+Python Project<br>
+https://github.com/000Sushant/health_tracker_and_recommender
+
