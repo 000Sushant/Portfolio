@@ -6,7 +6,7 @@ https://github.com/000Sushant/CS-Tools
 
 Unity Game development<br>
 https://drive.google.com/file/d/1aacwDoRNbTRbB8dzf_EB8skJYHmtzy4H/view?usp=sharing  --car racing game for pc
-https://drive.google.com/file/d/1B-Kauc9L8gRb5qVTVPjV_J749KbD91nR/view?usp=sharing  --Augmented reality game for mobile
+https://drive.google.com/file/d/1B-Kauc9L8gRb5qVTVPjV_J749KbD91nR/view?usp=sharing  --Augmented reality simulation for mobile
 
 Web Sites<br>
 https://drive.google.com/drive/u/0/folders/1tfoUUbYIVEDlhKovwhxI-KB3lez-Rt4Y <br>
