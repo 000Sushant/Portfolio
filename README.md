@@ -2,7 +2,7 @@
 projects and previous works
 
 Published Research Work (Scopus indexed)<br>
-https://github.com/01anuraganand/CVBN<br>
+https://github.com/000Sushant/Dr-CNN<br>
 
 Cyber Security Tools (in python)<br>
 https://github.com/000Sushant/CS-Tools <br>
